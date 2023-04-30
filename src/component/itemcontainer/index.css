@@ -1,0 +1,42 @@
+.greet1 {
+  background-color: rgb(51, 148, 226);
+  height: 45px;
+  display: flex;
+  padding: 10px;
+}
+.greet {
+  background-color: aliceblue;
+  min-height: 100vh;
+  padding: 35px;
+}
+.greet2 {
+  display: flex;
+  background-color: #2850a7;
+  height: 25px;
+  width: 500px;
+}
+.image1 {
+  padding-left: 50px;
+  padding-right: 280px;
+}
+.image2 {
+  height: 25px;
+  width: 30px;
+  border-color: aliceblue;
+}
+.search {
+  width: 500px;
+  height: 25px;
+  outline: none;
+  background-color: transparent;
+  border-color: aliceblue;
+  color: white;
+}
+.greet5 {
+  padding: 15px;
+}
+.display {
+  text-align: center;
+  margin: auto;
+  padding-top: 100px;
+}

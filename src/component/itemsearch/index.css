@@ -1,0 +1,58 @@
+.greet11 {
+  display: flex;
+  justify-content: space-between;
+
+  padding-left: 10px;
+  min-height: 20px;
+}
+.image11 {
+  height: 25px;
+  padding-top: 12px;
+}
+.greet12 {
+  display: flex;
+  height: 35px;
+  width: 659px;
+}
+.time {
+  font-size: 15px;
+  min-width: 80px;
+  min-height: 28px;
+
+  text-align: center;
+}
+.imagep {
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 25px;
+  min-width: 80px;
+  min-height: 28px;
+}
+
+.title {
+  font-size: 15px;
+
+  height: 20px;
+  min-width: 15px;
+  text-align: start;
+}
+.domain {
+  padding-left: 15px;
+  padding-top: 10px;
+}
+.button11 {
+  padding-left: 25px;
+  padding-top: 25px;
+
+  min-height: 10px;
+  min-width: 10px;
+  border-color: aliceblue;
+}
+.greet22 {
+  display: flex;
+
+  width: 900px;
+}
+.domain {
+  padding-top: 1px;
+}
